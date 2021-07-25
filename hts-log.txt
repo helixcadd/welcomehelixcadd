@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 May 2020 14:55:37 at https://demo.shadow-themes.com/html/ashade/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.shadow-themes.com/html/ashade/ -O1 "C:\Users\Admin\Desktop\sumit das\sumit 1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:59:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.shadow-themes.com/html/ashade/img/bgs/bg-home01.jpg (from https://demo.shadow-themes.com/html/ashade/)
+14:59:37	Error: 	"Not Found" (404) at link https://demo.shadow-themes.com/html/ashade/facebook.com (from https://demo.shadow-themes.com/html/ashade/)
+14:59:37	Error: 	"Not Found" (404) at link https://demo.shadow-themes.com/html/ashade/twitter.com (from https://demo.shadow-themes.com/html/ashade/)
+14:59:37	Error: 	"Not Found" (404) at link https://demo.shadow-themes.com/html/ashade/instagram.com (from https://demo.shadow-themes.com/html/ashade/)
+14:59:37	Error: 	"Not Found" (404) at link https://demo.shadow-themes.com/html/ashade/500px.com (from https://demo.shadow-themes.com/html/ashade/)
+14:59:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.shadow-themes.com/html/ashade/img/albums/masonry/album06.jpg (from https://demo.shadow-themes.com/html/ashade/)
+14:59:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.shadow-themes.com/html/ashade/img/albums/masonry/album11.jpg (from https://demo.shadow-themes.com/html/ashade/)
+14:59:38	Warning: 	File not parsed, looks like binary: https://demo.shadow-themes.com/html/ashade/fonts/line-awesome.woff2?v=1.1.
+14:59:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.shadow-themes.com/html/ashade/img/gallery/grid2/05.jpg (from https://demo.shadow-themes.com/html/ashade/gallery-grid-2columns.html)
+14:59:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.shadow-themes.com/html/ashade/img/gallery/masonry3/04.jpg (from https://demo.shadow-themes.com/html/ashade/gallery-masonry-3columns.html)
+14:59:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.shadow-themes.com/html/ashade/img/gallery/ribbon-large/05.jpg (from https://demo.shadow-themes.com/html/ashade/gallery-ribbon-large.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 3 seconds : 330 links scanned, 319 files written (83060639 bytes overall) [81799611 bytes received at 336623 bytes/sec], 56532807 bytes transferred using HTTP compression in 310 files, ratio 97%, 25.3 requests per connection
+(4 errors, 7 warnings, 0 messages)
